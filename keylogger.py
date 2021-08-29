@@ -1,4 +1,3 @@
-from typing import List
 from pynput.keyboard import Listener
 from socket import *
 
